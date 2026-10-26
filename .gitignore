@@ -11,3 +11,8 @@ id_rsa
 id_ed25519
 credentials/
 secrets/
+
+# Private production material and local reports
+work/
+outputs/
+private/
