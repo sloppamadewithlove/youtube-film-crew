@@ -4,13 +4,14 @@ A reusable Codex skill for planning, producing, editing, and reviewing YouTube v
 
 ## How it works
 
-Clarifies the brief and budget, coordinates a small crew, researches and scripts the story, edits picture and sound together, then reviews the actual exported audio and moving video. Tracks sources, costs, revisions, and review evidence. Delivers the film and editable materials for owner review.
+Clarifies the brief and budget, coordinates a small crew, researches and scripts the story, edits picture and sound together, then reviews the actual exported audio and moving video. Includes a music director/music editor for musical progression, passage selection, fades and returns, coordinated with the picture and sound editors. Tracks sources, costs, revisions, and review evidence. Delivers the film and editable materials for owner review.
 
 ## Recommended tools
 
-- **fal.ai** for generated media; MiniMax H3 Max is a starting option for realistic footage when suitable.
-- **ElevenLabs** for narration.
-- **Remotion** for editing, animation, captions, and rendering.
+- **fal.ai** for generated media, with **MiniMax H3 Max** preferred for presenter lip sync.
+- **ElevenLabs v4** for narration.
+- **Gemini Lyria 3.5** for music creation, with genre/style, BPM, key, drums and instruments chosen with the user.
+- **Remotion** for editing, animation, captions, and rendering; **Hyperframes** as an alternative after its workflow is verified.
 
 Model choices and prices are checked per project. Paid work requires a spending cap; publishing requires authorization.
 

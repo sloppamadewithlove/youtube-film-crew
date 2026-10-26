@@ -19,7 +19,7 @@ The director maintains a short **agreed direction**: what the video promises, wh
 
 Within **15 seconds**, establish the subject and a compelling question or useful payoff that matches the title and thumbnail. Use speech, visuals, or both. Make the reason for the coming examples clear. Create curiosity without misleading viewers or summarizing the whole story; the finished video must deliver the promise. The reason to watch must be clear by 15 seconds; the opening itself may continue.
 
-Recommend **fal.ai** for generated media, **ElevenLabs** for narration when wanted, and **Remotion** for programmable editing, captions, animation, and rendering. Read [tools-and-finishing.md](references/tools-and-finishing.md) before provider work. MiniMax H3 Max is a proven starting option for realistic generated footage, subject to the user's model choice and current capability/cost checks. Hyperframes is an alternative only after its workflow is verified; it is not the editing system used in the reference production.
+Use **fal.ai** for generated media, **MiniMax H3 Max** for presenter lip sync, **ElevenLabs v4** for narration when wanted, **Gemini Lyria 3.5** for music creation, and **Remotion** for programmable editing, captions, animation, and rendering as the preferred production stack. Honor the user's model choices and verify current capabilities and costs. Read [tools-and-finishing.md](references/tools-and-finishing.md) before provider work. Hyperframes is an alternative only after its workflow is verified; it is not the editing system used in the reference production.
 
 ## Protect resources before production
 
@@ -31,7 +31,7 @@ Recommend **fal.ai** for generated media, **ElevenLabs** for narration when want
 
 ## Run a small, accountable crew
 
-Follow [crew-and-evidence.md](references/crew-and-evidence.md) when assigning or reviewing work. Use these responsibilities, combining jobs for simple productions rather than spawning six agents automatically:
+Follow [crew-and-evidence.md](references/crew-and-evidence.md) when assigning or reviewing work. Use these seven responsibilities, combining jobs for simple productions rather than spawning every role automatically:
 
 | Responsibility | Owns |
 | --- | --- |
@@ -39,7 +39,8 @@ Follow [crew-and-evidence.md](references/crew-and-evidence.md) when assigning or
 | Researcher | Source-backed claims, media sourcing, provenance, and reuse conditions |
 | Writer | Promise, structure, script, explanations, and visual intent with the editor |
 | Picture editor | Shot selection, continuity, movement, graphics, captions, and visual edit |
-| Sound editor | Narration continuity, pronunciation, music, effects, mix, and sound repairs |
+| Music director / music editor | Plans the musical progression, selects passages, and specifies where music develops, fades, stops, and returns. Reviews the actual music against the picture and narration, then coordinates precise changes with the picture and sound editors. Asks the user what kind of genre style, bpm, song key, drums, and instruments. |
+| Sound editor | Narration continuity, pronunciation, effects, music integration, final combined mix, and sound repairs |
 | Final reviewer | Actual exported-media inspection and evidence of remaining defects |
 
 Use GPT-6 Luna at maximum reasoning for bounded jobs when available and appropriate; keep a capable director for cross-role decisions. Check current model/tool capabilities. A model name does not establish audio or video perception. If the requested model is unavailable, disclose a proposed substitute rather than mislabeling it.
@@ -55,7 +56,7 @@ Use only the needed sections of [production-workbook.md](assets/production-workb
 3. **Prove the treatment early.** Assemble a short representative sequence using existing assets, placeholders, or authorized generation. Include the difficult mechanism, character, caption, or sound treatment—not only an easy opening. The director checks it against the brief; seek the user's choice only when material uncertainty remains or a preview was requested.
 4. **Produce and edit purposefully.** Acquire footage appropriate to the genre: archival, newly filmed, screen recordings, photographs, animation, or generation. Use accurate contextual labels where needed. Preserve recognizable subjects, scale, era, geography, and physical behavior. Let meaningful action and explanations finish; no universal shot-length or footage/graphics quota.
 5. **Use visual explanations where they earn their place.** Reveal ideas with the script, keep readable labels and a clear focal point, and allow comprehension time. When a graphic carries the frame, center its main information and balance the surrounding space; use deliberate asymmetry when sharing the frame with a presenter or evidence. Let movement and highlights direct attention to the current explanation. A graphic-led explainer and a footage-led documentary may use very different amounts of animation. Avoid repeated filler, gratuitous counters, decorative interfaces, and unnecessary persistent branding unless requested.
-6. **Finish sound and captions as part of the edit.** Preserve complete words and natural pauses; avoid chopping narration at picture boundaries. Select caption style from the brief, synchronize to actual speech, and check contrast and mobile readability. Give the ending a deliberate payoff, composition, and sound transition. For YouTube, close with a brief, relevant next-video invitation unless the agreed treatment calls for a different ending. Coordinate its final spoken words, visual handoff, sound and any reserved end-screen space. Do not imply an interactive end-screen element has been configured when it is only baked into the picture.
+6. **Finish sound and captions as part of the edit.** Preserve complete words and natural pauses; avoid chopping narration at picture boundaries. Follow the [music progression and mix guidance](references/tools-and-finishing.md#music-progression-and-mix) to develop the score and coordinate its fades and returns with the story. Select caption style from the brief, synchronize to actual speech, and check contrast and mobile readability. Give the ending a deliberate payoff, composition, and sound transition. For YouTube, close with a brief, relevant next-video invitation unless the agreed treatment calls for a different ending. Coordinate its final spoken words, visual handoff, sound and any reserved end-screen space. Do not imply an interactive end-screen element has been configured when it is only baked into the picture.
 
 Keep consistent quality and any requested identity while varying the story, imagery, composition, pacing, music, and explanations for the new subject. Inspect available prior episodes/references for repetition when relevant; do not invent access to a channel history. See the originality and evidence rules in the references.
 

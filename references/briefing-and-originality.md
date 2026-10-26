@@ -19,7 +19,7 @@ First clarify the purpose and treatment. Then clarify presentation and constrain
 | Presentation | Narrated, host-led, interview-led, silent/visual, or mixed; desired voice/accent/pronunciation when applicable |
 | Visuals | Preferred source types, realism/stylization, movement, necessary demonstrations, brand constraints if any |
 | Text | Captions on/off and treatment, explanatory labels, language/accessibility needs, unwanted overlays |
-| Sound | Music mood/intensity, sound effects, when quiet is purposeful, narration priority if present |
+| Sound | Music genre/style, BPM, song key, drums, instruments, mood/intensity, sound effects, when quiet is purposeful, narration priority if present |
 | References | What specific qualities to learn from examples, plus things to avoid; do not clone another creator's identity |
 | Resources | Available footage/assets/accounts, authorized spending cap, time constraints, tool/model restrictions |
 | Output | Default 10–12 minutes; requested resolution/orientation, review destination, ancillary deliverables and publication scope |

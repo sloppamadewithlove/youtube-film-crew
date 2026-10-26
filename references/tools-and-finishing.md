@@ -7,11 +7,13 @@ Read before choosing providers, generating media, or preparing an export. These 
 | Tool | Starting role | Verify before use |
 | --- | --- | --- |
 | fal.ai | Generated video/images and suitable media-analysis models | Account, exact model/version, supported input/output, price, included credits, terms for intended use, and request status/billing |
-| ElevenLabs | Narration when the treatment needs it; music if appropriate | Exact voice identifier/model/settings, pronunciation, available allowance, usage conditions and intended delivery |
+| MiniMax H3 Max through fal.ai | Preferred presenter lip sync | Exact endpoint/version, reference identity, input audio, duration/resolution support, price and output quality |
+| ElevenLabs v4 | Preferred narration when the treatment needs it | Exact voice identifier/model/settings, pronunciation, available allowance, usage conditions and intended delivery |
+| Gemini Lyria 3.5 | Preferred music creation | Exact model/endpoint availability, supported duration/output, price, usage conditions and intended delivery |
 | Remotion | Programmable visual edit, synchronized graphics/captions, and rendering | Existing project and dependencies, suitable installed version, relevant Remotion skills/docs, assets, fonts, timing and render settings |
 | FFmpeg/ffprobe or equivalent installed media tools | Assembly, audio mixing/encoding, media identity and technical diagnostics | Tool availability, exact inputs, reproducible parameters and measured outputs |
 
-Remotion was used in the source production that informed this workflow. MiniMax H3 Max through fal.ai is a starting option for realistic generated footage, not a requirement for animation, interviews, tutorials, or every future model choice. Honor an explicitly requested model. Verify current documentation and rates when selecting providers; do not copy a past production's price into a new budget.
+Remotion was used in the source production that informed this workflow. MiniMax H3 Max through fal.ai is the preferred option for presenter lip sync; choose other footage methods to fit the treatment. Honor an explicitly requested model. Verify current documentation and rates when selecting providers; do not copy a past production's price into a new budget.
 
 Treat Hyperframes as a potential alternative only after verifying actual tool availability, project structure, timing/export behavior, and a representative output. Do not describe it as tested or used merely because it was named in a conversation. An existing user editor/project may be preferable; preserve its editable authority unless a migration is requested or justified and authorized.
 
@@ -34,6 +36,21 @@ Write numbers for listening. When exact precision is unnecessary to the explanat
 Produce coherent takes long enough to preserve natural phrasing within provider limits. Join at genuine pauses and listen to joins. Keep the narration continuous through picture changes; avoid many artificial scene-boundary audio splices. Work from preserved originals, use lossless intermediate audio where practical, and inspect the final encoded soundtrack after mixing/rendering.
 
 Choose a loudness/peak preset suitable for the treatment, document it, and measure the delivered mix. Keep dialogue intelligible, maintain headroom, and assess music/effects perceptually. A numeric loudness result does not establish complete words, good pronunciation, or a pleasant balance. Intentional quiet sections are valid; an accidental silent ending is not.
+
+## Music progression and mix
+
+Use Gemini Lyria 3.5 as the preferred music generator, with availability and pricing verified before generation. Choose the genre, tempo, instrumentation, and energy from the episode's agreed direction. Ask the user about genre/style, BPM, song key, drums, and instruments, preserving answers already given and any explicitly delegated choices.
+
+Build a coherent musical progression across the edit. Use related passages or arrangements that develop through changes in texture, percussion, instrumentation, and intensity. Match those changes to meaningful story beats. Repetition can establish a theme, but an obvious short loop should not carry the entire film without development.
+
+Choose music behavior according to each passage:
+
+- **Narration and explanation:** Keep a supportive bed at a level and density that leave speech clear.
+- **Visual demonstrations, website footage, or montages:** Continue the music when it supports attention and no important source audio needs space.
+- **Examples with meaningful dialogue, sound, or music:** Lower, fade, or temporarily mute the background track so the viewer can assess the original audio. Plan its return to bring music back in, fade in, louder. Keep the return consistent with narration clarity and the intended energy.
+- **Emphasis, reflection, and transitions:** Use changes in intensity or intentional silence when they serve the moment. Coordinate fades and returns with both the picture and musical phrasing.
+
+Check the complete exported soundtrack for repetitive passages, accidental gaps, abrupt joins, distracting changes, and missing returns after a fade. Confirm that the music supports the intended energy without competing with the presenter.
 
 ## Editable visual/caption presets
 

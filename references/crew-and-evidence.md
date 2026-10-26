@@ -4,7 +4,9 @@ Read this when delegating, integrating changes, or deciding whether a video is r
 
 ## Assign narrowly; share the story
 
-Create only the roles needed for this production. A director, combined researcher/writer, picture editor, sound editor, and reviewer may be enough; a small edit may require fewer. Do not automatically launch all roles or permit unbounded nested agents.
+Create only the roles needed for this production. A director, combined researcher/writer, picture editor, music director/music editor, sound editor, and reviewer may be appropriate; a small edit may require fewer. Assign a dedicated music role when music substantially shapes a full production, and combine it with sound editing for simpler work. Do not automatically launch all roles or permit unbounded nested agents.
+
+The music director/music editor owns musical progression, passage selection, and timing instructions for development, fades, stops, and returns. The picture editor coordinates the visual timing, and the sound editor owns narration, effects, music integration, and the final combined mix. Keep the music role involved from planning through actual soundtrack review, with timestamped changes routed through the director; the final reviewer still assesses the complete experience. The designated operator remains responsible for all paid submissions.
 
 Every assignment identifies the current brief and script, deliverable, owned files/responsibility, excluded actions, model/capabilities, work allowance, and expected evidence. Tell editing workers they are not alone, must not revert others' work, and must communicate interface/timing changes. One integrator owns the final timeline/master. Reviewers have read-only access to protected production files unless assigned a specific repair.
 

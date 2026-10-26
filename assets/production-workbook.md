@@ -12,7 +12,7 @@ Copy only the sections this production needs into its workspace. Empty tables ar
 - Narration/host/visual-only approach:
 - Visual approach and source types:
 - Captions, explanatory labels, accessibility needs:
-- Music and sound direction:
+- Music and sound direction: genre/style, BPM, song key, drums, instruments, mood/intensity; user-specified or explicitly delegated choices:
 - Runtime: default 10–12 minutes unless otherwise requested.
 - Canvas, resolution, frame rate, delivery format:
 - Must keep / must avoid:
@@ -58,7 +58,8 @@ Copy only the sections this production needs into its workspace. Empty tables ar
 - Picture: dimensions, frame rate, color treatment, typography, continuity anchors; native capture pixels and final framing for website/interface evidence.
 - Captions: enabled, grouping, font, size, fill, stroke/background, safe area, timing source.
 - Graphics: focal group, centering/balance, readable hierarchy and narration-led reveal/highlight timing.
-- Audio: source takes, assembly method, mix/peak target, music/effects treatment.
+- Music: provider/model, selected passages, progression, cue timings, fades/stops/returns, and intended quiet sections.
+- Audio: source takes, assembly method, mix/peak target, music/effects integration and final combined mix.
 - Ending: payoff, next-video invitation/destination or agreed alternative, complete final words, picture/sound handoff, reserved space and actual interactive configuration if any.
 
 ## 7. Costs and request control
