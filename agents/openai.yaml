@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Film Crew"
+  short_description: "Create YouTube videos with a coordinated film crew"
+  default_prompt: "Use $youtube-film-crew to clarify the video I want and coordinate its production and review."

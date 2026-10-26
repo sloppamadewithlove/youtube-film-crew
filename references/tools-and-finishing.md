@@ -1,0 +1,48 @@
+# Recommended tools and finishing practice
+
+Read before choosing providers, generating media, or preparing an export. These recommendations do not install software, grant account access, or authorize spending by themselves.
+
+## Use the tools appropriate to the agreed treatment
+
+| Tool | Starting role | Verify before use |
+| --- | --- | --- |
+| fal.ai | Generated video/images and suitable media-analysis models | Account, exact model/version, supported input/output, price, included credits, terms for intended use, and request status/billing |
+| ElevenLabs | Narration when the treatment needs it; music if appropriate | Exact voice identifier/model/settings, pronunciation, available allowance, usage conditions and intended delivery |
+| Remotion | Programmable visual edit, synchronized graphics/captions, and rendering | Existing project and dependencies, suitable installed version, relevant Remotion skills/docs, assets, fonts, timing and render settings |
+| FFmpeg/ffprobe or equivalent installed media tools | Assembly, audio mixing/encoding, media identity and technical diagnostics | Tool availability, exact inputs, reproducible parameters and measured outputs |
+
+Remotion was used in the source production that informed this workflow. MiniMax H3 Max through fal.ai is a starting option for realistic generated footage, not a requirement for animation, interviews, tutorials, or every future model choice. Honor an explicitly requested model. Verify current documentation and rates when selecting providers; do not copy a past production's price into a new budget.
+
+Treat Hyperframes as a potential alternative only after verifying actual tool availability, project structure, timing/export behavior, and a representative output. Do not describe it as tested or used merely because it was named in a conversation. An existing user editor/project may be preferable; preserve its editable authority unless a migration is requested or justified and authorized.
+
+Use available purpose-built connectors, skills, APIs, or authorized browser sessions. Follow their instructions. Do not solicit passwords or secrets in chat. Keep private files and credentials in the appropriate local/private production storage.
+
+## Generation discipline
+
+First identify the visual purpose and source suitability. Use real/recorded material when it serves the treatment; generate when a new visual is useful and authorized. Do not substitute generated footage for factual evidence of an event.
+
+A useful generation request specifies subject and action, camera/composition, surroundings and period, physical/spatial relationships, lighting/materials, continuity anchors, duration/output needs, and exclusions that matter. Prefer a manageable continuous action over a prompt requiring many unrelated actions. Use references/consistent assets when appropriate and permitted. Evaluate the result in motion before accepting it.
+
+For failures, state the observed fault and change the prompt, reference, model, or method for a reason. Do not keep submitting near-identical requests without diagnosing the failure. Track every attempt and its disposition, including billed rejects. Poll an existing request before submitting a replacement; request uncertainty is not proof of failure or non-billing.
+
+## Voice and audio assembly
+
+Voice choice is an episode/channel decision. Save the exact provider voice ID, model, settings, pronunciation choices, and an accepted reference recording. A display name or global account default is insufficient. Verify the binding before generation. Never borrow another channel's voice by accident.
+
+Produce coherent takes long enough to preserve natural phrasing within provider limits. Join at genuine pauses and listen to joins. Keep the narration continuous through picture changes; avoid many artificial scene-boundary audio splices. Work from preserved originals, use lossless intermediate audio where practical, and inspect the final encoded soundtrack after mixing/rendering.
+
+Choose a loudness/peak preset suitable for the treatment, document it, and measure the delivered mix. Keep dialogue intelligible, maintain headroom, and assess music/effects perceptually. A numeric loudness result does not establish complete words, good pronunciation, or a pleasant balance. Intentional quiet sections are valid; an accidental silent ending is not.
+
+## Editable visual/caption presets
+
+Reuse components and data contracts rather than baking one channel's style into this skill. An episode preset should record canvas dimensions, frame rate, palette, typography, caption enablement/grouping/size/outline/background/safe area, graphic treatment, and ending behavior. Choose those values from the brief or delegated creative judgment. Do not impose yellow captions, metallic colors, or a particular font on every video.
+
+Timing must follow actual narration/action. Preserve necessary archive context and source framing. Generated text is not a reliable way to render essential labels; use verified editorial text where needed. Keep essential explanations readable through their spoken beat. Captions should not obscure the key mechanism, speaker, or demonstration.
+
+Default to a 16:9, 1920×1080 deliverable when suitable and unspecified after briefing; choose frame rate to fit the source material and treatment. Do not repeatedly retime or interpolate footage merely to enforce a preset. Honor requested formats and keep editable project/assets alongside the exported master in the production workspace.
+
+## Delivery and accounts
+
+For the authorized destination, verify that the expected revision uploaded/imported successfully and actually plays, including its ending. Keep a local master and a clear version identity. Do not confuse a queue acknowledgement, configured OAuth, or successful encode with a completed upload or watched video.
+
+If publication preparation is requested, prepare the title, description, thumbnail, subtitles, chapters where useful, credits, and accurate platform disclosures. Configure real end-screen functionality only when supported and authorized. Creating a channel, buying credits/subscriptions, changing visibility, scheduling, and public publishing remain distinct actions governed by the user's authorization and applicable tool rules.
