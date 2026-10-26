@@ -21,3 +21,7 @@ Clone this repository into `~/.codex/skills/youtube-film-crew`.
 Invoke `$youtube-film-crew` with your video idea, references, and constraints.
 
 [Full skill](SKILL.md) · [Creative briefing](references/briefing-and-originality.md) · [Crew and review rules](references/crew-and-evidence.md) · [Tools and finishing](references/tools-and-finishing.md) · [Production workbook](assets/production-workbook.md)
+
+## License
+
+[MIT](LICENSE). Free to use, modify, and share, including commercially, with the license notice retained.
