@@ -29,7 +29,8 @@ Copy only the sections this production needs into its workspace. Empty tables ar
 
 - Why this structure and treatment fit this subject and viewer:
 - What will make this episode distinct from available previous work:
-- Opening promise, progression, and payoff:
+- First-15-second promise: subject, reason this viewer should care, question/useful payoff, and title/thumbnail match:
+- Progression and payoff that deliver that promise:
 - Difficult elements the representative sample should demonstrate:
 - Sample identity, director observations, changes, and unresolved choices:
 
@@ -45,8 +46,8 @@ Copy only the sections this production needs into its workspace. Empty tables ar
 
 ## 5. Claims and media sources
 
-| Claim ID / script passage | Claim and certainty | Supporting source and exact passage/data | Corroboration or limitation | Disposition |
-| --- | --- | --- | --- | --- |
+| Claim ID / script passage | Claim and certainty | Supporting source and exact passage/data | Spoken wording / exact displayed figure if different | Group, measure, date scope, exclusions and arithmetic if applicable | Corroboration or limitation | Disposition |
+| --- | --- | --- | --- | --- | --- | --- |
 
 | Asset ID / file | Original source / provider | What it actually depicts | License / permission / intended-use conditions | Context/credit/disclosure needed | Accepted use |
 | --- | --- | --- | --- | --- | --- |
@@ -54,11 +55,11 @@ Copy only the sections this production needs into its workspace. Empty tables ar
 ## 6. Episode presets
 
 - Voice: provider, exact voice ID, model, settings, pronunciations, reference audio; or not applicable.
-- Picture: dimensions, frame rate, color treatment, typography, continuity anchors.
+- Picture: dimensions, frame rate, color treatment, typography, continuity anchors; native capture pixels and final framing for website/interface evidence.
 - Captions: enabled, grouping, font, size, fill, stroke/background, safe area, timing source.
-- Graphics: explanation style and readability/reveal rules for this treatment.
+- Graphics: focal group, centering/balance, readable hierarchy and narration-led reveal/highlight timing.
 - Audio: source takes, assembly method, mix/peak target, music/effects treatment.
-- Ending: payoff, image/action, music transition, CTA if requested, actual interactive configuration if any.
+- Ending: payoff, next-video invitation/destination or agreed alternative, complete final words, picture/sound handoff, reserved space and actual interactive configuration if any.
 
 ## 7. Costs and request control
 

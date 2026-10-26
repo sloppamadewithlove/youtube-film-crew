@@ -34,6 +34,14 @@ Summarize the viewer promise, scope, tone, treatment, length, must-keep elements
 
 Research can expose a false premise. The crew should flag it with sources and propose a truthful alternative; the director must not preserve a false factual claim merely to protect a story outline. Ask the user when correcting the premise materially changes the requested video.
 
+## Check the opening promise and claim scope
+
+Review the first 15 seconds from the intended viewer's position: **What is this about? Why should I care? What will watching resolve or help me do?** Picture and sound can answer together; no spoken agenda is required. Study how supplied successful references establish interest, recording observed intervals, without copying their wording or assuming retention data.
+
+A historical-mission hook can establish the objective and an extreme obstacle while withholding the outcome. A provider explainer can establish the shared problem, why these companies illustrate it, and what viewers will learn. These are applications of the same promise check, not mandatory hook templates or a requirement to finish the entire opening by 15 seconds.
+
+Apply the group-scope rule only when making a group claim. A video about five companies need not rank them or show all five in every shot. But a total described as covering those five must include their relevant figures or identify exclusions. If one included round is from an earlier year, the total's date label must reflect that; a narrower period needs an explicitly labeled subset. Never fill missing data by guessing or add unlike measures such as funding, valuation and revenue. Record membership, measure, date scope and arithmetic beside the claim.
+
 ## Reusable materials should preserve method, not sameness
 
 Reuse the workbook structure, media-handling routines, review process, and configurable rendering tools. Fill them with new decisions and evidence for every episode. Do not reuse a prior script, palette, narrator, music cue, shot order, pacing curve, or ending composition unless that reuse fits the request or an agreed channel identity.

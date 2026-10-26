@@ -29,6 +29,8 @@ For failures, state the observed fault and change the prompt, reference, model, 
 
 Voice choice is an episode/channel decision. Save the exact provider voice ID, model, settings, pronunciation choices, and an accepted reference recording. A display name or global account default is insufficient. Verify the binding before generation. Never borrow another channel's voice by accident.
 
+Write numbers for listening. When exact precision is unnecessary to the explanation or viewer's decision, speak an accurate approximation and show the exact sourced figure on screen: $1.505 billion can be “around one and a half billion”; $1.946 billion can be “just under two billion.” Keep units, dates and metric labels clear. Record both spoken and displayed wording, check the arithmetic and rounding, and read the line aloud before generation. Retain necessary precision in technical instructions or other passages where rounding would mislead.
+
 Produce coherent takes long enough to preserve natural phrasing within provider limits. Join at genuine pauses and listen to joins. Keep the narration continuous through picture changes; avoid many artificial scene-boundary audio splices. Work from preserved originals, use lossless intermediate audio where practical, and inspect the final encoded soundtrack after mixing/rendering.
 
 Choose a loudness/peak preset suitable for the treatment, document it, and measure the delivered mix. Keep dialogue intelligible, maintain headroom, and assess music/effects perceptually. A numeric loudness result does not establish complete words, good pronunciation, or a pleasant balance. Intentional quiet sections are valid; an accidental silent ending is not.
@@ -39,7 +41,13 @@ Reuse components and data contracts rather than baking one channel's style into 
 
 Timing must follow actual narration/action. Preserve necessary archive context and source framing. Generated text is not a reliable way to render essential labels; use verified editorial text where needed. Keep essential explanations readable through their spoken beat. Captions should not obscure the key mechanism, speaker, or demonstration.
 
+For website and interface evidence, capture enough native pixels for its final displayed size: a full-frame 1080p view needs at least 1920×1080 source pixels, with extra resolution for a planned push-in. Upscaling a small capture does not restore detail. Prefer a clean full-frame view with recognizable branding and only necessary overlays; crop or zoom for a specific point while preserving the context needed to understand it. Recapture soft or obstructed views and inspect their text in the final export, not only the browser preview.
+
+Check infographic composition in the finished frame at both full size and phone size. Treat the heading, diagram and labels as one visual group with a clear hierarchy; center that group when it is the sole focal point. Balance any presenter overlay deliberately. Reveal and highlight the item being explained, then hold it long enough to understand; motion should clarify rather than compete with the information.
+
 Default to a 16:9, 1920×1080 deliverable when suitable and unspecified after briefing; choose frame rate to fit the source material and treatment. Do not repeatedly retime or interpolate footage merely to enforce a preset. Honor requested formats and keep editable project/assets alongside the exported master in the production workspace.
+
+Plan the next-video invitation as part of the ending, with one clear reason to continue and a smooth picture/sound handoff. Use a specific next video's topic only when that destination is known; otherwise keep the invitation truthful and general. When an end-screen target is planned, leave unobstructed space and enough time for it. Review the complete final words and the transition into the ending layout. A rendered placeholder is separate from configuring a clickable platform element.
 
 ## Delivery and accounts
 
